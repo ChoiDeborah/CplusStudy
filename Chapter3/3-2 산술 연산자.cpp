@@ -39,4 +39,6 @@ int _3_2()
 		int z = x;
 		z += y;			// z = z + y;
 	}
+
+	return 0;
 }

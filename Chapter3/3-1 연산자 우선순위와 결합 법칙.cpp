@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int _3_1()
 {
 	//int x = 4 + 2 * 3; // add(4, mult(2, 3))
 	

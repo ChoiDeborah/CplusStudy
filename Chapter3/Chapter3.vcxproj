@@ -145,6 +145,7 @@
     <ClCompile Include="3-3 증감 연산자.cpp" />
     <ClCompile Include="3-4 sizeof, 쉼표 연산자, 조건부 연산자.cpp" />
     <ClCompile Include="3-5 관계 연산자.cpp" />
+    <ClCompile Include="3-6 논리 연산자.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

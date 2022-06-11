@@ -147,6 +147,7 @@
     <ClCompile Include="3-5 관계 연산자.cpp" />
     <ClCompile Include="3-6 논리 연산자.cpp" />
     <ClCompile Include="3-7 이진수.cpp" />
+    <ClCompile Include="3-8 비트단위 연산자.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

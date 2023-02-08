@@ -47,3 +47,8 @@ int _3_8()
 
 	return 0;
 }
+
+int main()
+{
+	return 0;
+}
